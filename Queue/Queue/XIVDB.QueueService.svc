@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Queue.QueueService" CodeBehind="XIVDB.QueueService.svc.cs" %>
